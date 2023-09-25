@@ -8,7 +8,7 @@ function sendMoney(){
        alert("Insufficient Balance.")
     }
  else {
-       var findUserBankAccount = enterName + "BankBalance";
+   
       
        var finalAmount = parseInt(document.getElementById(findUserBankAccount).innerHTML) + enterAmount;
        var myAccountBalance = parseInt(document.getElementById(findSenderBankAccount).innerHTML) - enterAmount;
