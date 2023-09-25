@@ -11,12 +11,10 @@
  }
  #help:hover{
 	color:rgb(243, 88, 88);
-	text-shadow: #0c0113;
-	box-shadow: #0c0113;
+	
  }
 *{
-	margin:0;
-	padding:0;
+
 }
 body
 {
